@@ -1,0 +1,23 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audetv/programming.git"
+  },
+  "author": "Aleksey Gusev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audetv/programming/issues"
+  },
+  "homepage": "https://github.com/audetv/programming#readme",
+  "dependencies": {
+    "common": "^0.2.5",
+    "metarhia": "0.0.1"
+  }
+}
